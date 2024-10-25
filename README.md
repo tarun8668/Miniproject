@@ -26,18 +26,18 @@ Browser: Google Chrome or Firefox for accessing the web app.
 
 ## System Architecture
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![architecture](img/arch.png)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Stocks Plot
 
 ![home](img/home.png)
 
-#### Output2 - Name of the output
-![recent](![image](https://github.com/user-attachments/assets/4f7c0852-7b71-49fa-b417-e466620c1887))
+#### Output2 - Recent Stocks
+![recent](img/recent.png)
 
 
 
