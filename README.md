@@ -37,7 +37,7 @@ Browser: Google Chrome or Firefox for accessing the web app.
 ![home](img/home.png)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![recent](![image](https://github.com/user-attachments/assets/4f7c0852-7b71-49fa-b417-e466620c1887))
 
 
 
